@@ -9,10 +9,10 @@ Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-s%
 ## 🧭 Sobre mí
 
 Soy **José Manuel Sánchez Rosal**, tengo 39 años y actualmente curso el **CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-A lo largo de mi trayectoria he trabajado en diversos sectores —industrial, energético y agrícola—, acumulando más de **15 años de experiencia profesional**.  
-Mi perfil se caracteriza por la **curiosidad técnica**, la **constancia**, la **capacidad de adaptación** y una **firme vocación de aprendizaje continuo**, especialmente en el ámbito tecnológico.
+A lo largo de mi trayectoria he trabajado en diversos sectores —Industrial, Energético y Agrícola—, acumulando más de **15 años de experiencia profesional**.  
+Mi perfil se caracteriza por la **Curiosidad Técnica**, la **Constancia**, la **Capacidad de Adaptación** y una **firme vocación de Aprendizaje Contínuo**, especialmente en el ámbito Tecnológico.
 
-Durante mi etapa profesional he desarrollado un enfoque analítico y resolutivo, orientado a la mejora y optimización de procesos, ahora aplicando esa experiencia al mundo del Desarrollo de Software.
+Durante mi etapa Profesional he desarrollado un enfoque analítico y resolutivo, orientado a la mejora y optimización de Procesos, ahora aplicando esa experiencia al mundo del Desarrollo de Software.
 
 ---
 
@@ -28,39 +28,39 @@ Durante mi etapa profesional he desarrollado un enfoque analítico y resolutivo,
 
 - **Operador de Campo y Sala de Control — Central Termosolar Cilindro-Parabólica (Acciona Energía / ContourGlobal S.L.)**  
   *2011 – 2024*  
-  Control, Supervisión y análisis de Procesos Industriales, manejo de Sistemas DCS y FCS, análisis de parámetros en ciclo agua/vapor, formación en seguridad y operación bajo procedimientos H&S.
+  Control, Supervisión y Análisis de Procesos Industriales, manejo de Sistemas DCS y FCS, análisis de parámetros en ciclo agua/vapor, formación en seguridad y operación bajo procedimientos H&S.
 
 - **Peón Agrícola** — *2010 – 2012*  
-  Realización de tareas en el sector agrario, combinando el trabajo con formación técnica en **Programación de Autómatas**.
+  Realización de tareas en el sector Agrario, combinando el trabajo con formación técnica en **Programación de Autómatas** fuera de la jornada Laboral.
 
 - **Técnico Electricista Industrial — Neotest Córdoba S.L.**  
   *2007 – 2009*  
-  Instalaciones Eléctricas Industriales, mantenimiento y pruebas de Equipos, Automatización y puesta en Marcha de maquinaria en líneas de envasado Industrial
+  Instalaciones Eléctricas Industriales, Mantenimiento y pruebas de Equipos, Automatización y puesta en Marcha de maquinaria en líneas de envasado Industrial
 
 - **Electricista — Base Ingeniería S.L.**  
   *2005*  
-  Instalaciones eléctricas en entornos industriales y residenciales.
+  Instalaciones eléctricas en entornos Industriales y residenciales.
 
 ---
 
 ## 🧠 Aptitudes, Actitudes y Habilidades
 
 **Aptitudes técnicas**  
-- Instalaciones eléctricas y sistemas automáticos  
-- Lógica de programación  
-- Manejo de sistemas DCS (Control Distribuido) y FCS (Campo Solar)  
+- Instalaciones eléctricas y Sistemas Automáticos  
+- Lógica de Programación  
+- Manejo de Sistemas DCS (Control Distribuido) y FCS (Campo Solar)  
 - Análisis físico-químicos y control de parámetros de proceso  
 - Office, Windows y Linux (Ubuntu)  
 - Control de versiones con GitHub  
 
 **Actitudes personales**  
-- Comunicación efectiva y trabajo en equipo  
-- Compromiso y profesionalidad  
+- Comunicación efectiva y Trabajo en Equipo  
+- Compromiso y Profesionalidad  
 - Polivalencia y mejora continua  
 - Capacidad para trabajar bajo presión  
-- Formación y respuesta ante escenarios críticos  
+- Formación y respuesta ante escenarios y emergencias críticos  
 
-**Habilidades en desarrollo (CFGS DAM)**  
+**Habilidades en Desarrollo (CFGS DAM)**  
 - Programación en **Java**, **Python**, **Kotlin**  
 - Desarrollo web con **HTML**, **CSS**, **JavaScript**  
 - Uso de frameworks y entornos: **IntelliJ IDEA**, **Visual Studio Code**, **NetBeans**, **Android Studio**, **Scene Builder**
@@ -69,8 +69,8 @@ Durante mi etapa profesional he desarrollado un enfoque analítico y resolutivo,
 
 ## 💡 Actualmente
 
-En proceso de formación y desarrollo dentro del **ámbito de la Programación y Desarrollo Multiplataforma**, orientado a la creación de soluciones digitales sostenibles y eficientes.  
-Mi objetivo es combinar la experiencia adquirida en entornos Industriales con el Desarrollo de Software, aportando experiencia y una visión práctica, técnica y humana a los Proyectos.
+En proceso de Formación y Desarrollo dentro del **ámbito de la Programación y Desarrollo Multiplataforma**, orientado a la creación de soluciones digitales sostenibles y eficientes para cubrir las necesidades actuales  
+Mi objetivo es combinar la Experiencia adquirida en entornos Industriales con el Desarrollo de Software, aportando Experiencia y una visión práctica, técnica y humana a los Proyectos actuales y futuros.
 
 ---
 
