@@ -2,7 +2,7 @@
 
 ### Desarrollador de Aplicaciones Multiplataforma en formación  
 📍 Palma del Río (Córdoba) |
-Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-s%C3%A1nchez-rosal-863803114/)
+Conéctate conmigo en [LinkedIn](linkedin.com/in/josé-manuel-sánchez-rosal-863803114)
 
 ---
 
