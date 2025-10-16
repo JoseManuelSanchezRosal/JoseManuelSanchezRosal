@@ -18,9 +18,11 @@ Durante mi etapa Profesional, mi meta ha sido caracterizada por desarrollar un e
 
 ## 🎓 Formación Académica
 
-- **CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)** — *Actualidad, finalización prevista 2026*  
-- **CFGS Sistemas de Regulación y Control Automáticos** — *2007*  
 - **CFGM Técnico en Equipos e Instalaciones Electrotécnicas**, *Salesianos San Luis Rey (Palma del Río)* — *2005*
+- **CFGS Sistemas de Regulación y Control Automáticos** — *2007* 
+- **CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)** — *Actualidad, finalización prevista 2026*  
+ 
+
 
 ---
 
