@@ -1,10 +1,9 @@
 # José Manuel Sánchez Rosal
 
 ### Desarrollador de Aplicaciones Multiplataforma en formación  
-📍 Palma del Río (Córdoba) | 📧 [Contactar por GitHub](mailto:j.manuel25@outlook.es)
+📍 Palma del Río (Córdoba) |
+Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-s%C3%A1nchez-rosal-863803114/)
 
-
-[Enlace LinkedIn] (https://www.linkedin.com/in/jos%C3%A9-manuel-s%C3%A1nchez-rosal-863803114/)
 ---
 
 ## 🧭 Sobre mí
