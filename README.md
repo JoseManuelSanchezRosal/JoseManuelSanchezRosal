@@ -2,6 +2,8 @@
 
 ### Desarrollador de Aplicaciones Multiplataforma en formación  
 📍 Palma del Río (Córdoba) | 📧 [Contactar por GitHub](mailto:j.manuel25@outlook.es)
+
+
 [Enlace LinkedIn] (https://www.linkedin.com/in/jos%C3%A9-manuel-s%C3%A1nchez-rosal-863803114/)
 ---
 
