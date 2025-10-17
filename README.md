@@ -8,7 +8,7 @@ Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-s%
 
 ## 🧭 Sobre mí
 
-Soy **José Manuel Sánchez Rosal**, tengo 39 años y actualmente curso el **CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Soy **José Manuel Sánchez Rosal**, actualmente curso el **CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 A lo largo de mi trayectoria he trabajado en diversos sectores —Industrial, Energético y Agrícola—, acumulando más de **15 años de experiencia profesional**.  
 Mi perfil se caracteriza por la **Curiosidad Técnica**, la **Constancia**, la **Capacidad de Adaptación** y una **firme vocación de Aprendizaje Contínuo**, especialmente en el ámbito Tecnológico.
 
