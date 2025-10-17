@@ -36,7 +36,7 @@ Durante mi etapa Profesional, mi meta ha sido caracterizada por desarrollar un e
   *2007 – 2009*  
   Instalaciones Eléctricas Industriales, Mantenimiento y pruebas de Equipos, Automatización y puesta en Marcha de maquinaria en líneas de envasado Industrial tanto nueva como adaptada a las necesidades de la Organización
 
-  - **Peón Agrícola** — *2010 – 2012*  
+- **Peón Agrícola** — *2010 – 2012*  
   Realización de tareas en el sector Agrario, combinando el trabajo con formación técnica en **Programación de Autómatas** fuera de la jornada Laboral.
 
 - **Operador de Campo y Sala de Control — Central Termosolar Cilindro-Parabólica (Acciona Energía / ContourGlobal S.L.)**  
