@@ -96,3 +96,9 @@ Mi objetivo es combinar la Experiencia adquirida en entornos Industriales con el
 ## 📜 Conclusión
 
 > Me defino como un profesional con inquietud por aprender, con capacidad para adaptarme a nuevos Desafíos y con la ilusión de seguir evolucionando en el ámbito del Desarrollo de Software, Innovación Tecnológica y aprendizaje Constante.
+
+## 🚀Github stats:
+
+![Contributions and streak](https://git-hub-streak-stats.vercel.app/?user=JoseManuelSanchezRosal&theme=transparent)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelSanchezRosal&theme=transparent&layout=compact)
