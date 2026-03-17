@@ -7,9 +7,9 @@
 
 ## 🧭 Sobre mí
 
-Bienvenid@!!!1 me llamo **José Manuel**, actualmente curso el **CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Soy **José Manuel Sánchez Rosal**, actualmente curso el **CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 
-A lo largo de mi trayectoria he trabajado en diversos sectores —industrial, energético y agrícola—, acumulando más de **16 años de experiencia profesional**. Mi perfil se caracteriza por la curiosidad técnica, la constancia, la capacidad de adaptación y una firme vocación de aprendizaje continuo, especialmente en el ámbito tecnológico.
+A lo largo de mi trayectoria he trabajado en diversos sectores —industrial, energético y agrícola—, acumulando más de **15 años de experiencia profesional**. Mi perfil se caracteriza por la curiosidad técnica, la constancia, la capacidad de adaptación y una firme vocación de aprendizaje continuo, especialmente en el ámbito tecnológico.
 
 Durante mi etapa en la industria, mi meta ha sido desarrollar un enfoque analítico y resolutivo, orientado a la mejora y optimización de procesos. Ahora aplico esa experiencia, junto con el pensamiento crítico de los entornos de control distribuido, al mundo del desarrollo de software.
 
@@ -70,6 +70,5 @@ Durante mi etapa en la industria, mi meta ha sido desarrollar un enfoque analít
 ## 🚀 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app/?user=JoseManuelSanchezRosal&theme=transparent" alt="Contributions and streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelSanchezRosal&theme=transparent&layout=compact" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelSanchezRosal&theme=transparent&layout=compact" alt="Lenguajes más usados" />
 </div>
